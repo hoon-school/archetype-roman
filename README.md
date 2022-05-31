@@ -4,6 +4,16 @@ Template repository for HSL competition.
 
 **Please _do not fork this repository directly on GitHub._**  Instead, please use GitHub's "template" function following [the instructions below](#creating-a-repository) to copy this repository and customize it for your project.
 
+## Using this Repository
+
+This repo provides test cases you can use to verify that your code submission works correctly.
+
+If you are working with a fakeship, this is one way to set things up for rapid development:
+
+1. Start a fakeship and `|mount %base`.
+2. Clone this repo into the same directory as the fakeship, then copy the contents of `src/` into `zod/base/`.
+3. Develop either in `zod/base/` or in this repo folder directly.  It's probably a bit easier to develop in the fakeship and copy back here frequently.
+
 ## Creating a Repository
 
 1.  Log in to GitHub.
