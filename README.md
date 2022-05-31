@@ -20,7 +20,7 @@ If you are working with a fakeship, this is one way to set things up for rapid d
     (If you do not have an account, you can quickly create one for free.)
     You must be logged in for the remaining steps to work.
 
-2.  On this page (<https://github.com/hoon-school/archetype-roman/>),
+2.  On this page (<https://github.com/hoon-school/template-roman/>),
     click on the green "Use this template" button (top right)
 
 3.  Select the owner for your new repository.
