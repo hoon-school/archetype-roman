@@ -29,8 +29,10 @@ If you are working with a fakeship, this is one way to set things up for rapid d
 4.  Choose a name for your copy of the archetype repository.
     This name should have the form of the template repo without `archetype`, e.g. `roman` or `hsl-roman`.
 
-5.  Make sure the repository is public, leave "Include all branches" unchecked, and click
+5.  Make sure the repository is **private**, leave "Include all branches" unchecked, and click
 on "Create repository from template".
 You will be redirected to your new copy of the template respository.
+
+6.  You should share the repo with your competition's submission lead as identified on the submission form.
 
 After this is complete, you can use this repo to handle your competition development and submission.
