@@ -489,335 +489,335 @@
   =/  src  1
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-two
   =/  trg  "ii"
   =/  src  2
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-three
   =/  trg  "iii"
   =/  src  3
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-four
   =/  trg  "iv"
   =/  src  4
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-five
   =/  trg  "v"
   =/  src  5
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-six
   =/  trg  "vi"
   =/  src  6
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-seven
   =/  trg  "vii"
   =/  src  7
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-eight
   =/  trg  "viii"
   =/  src  8
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-nine
   =/  trg  "ix"
   =/  src  9
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-ten
   =/  trg  "x"
   =/  src  10
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-eleven
   =/  trg  "xi"
   =/  src  11
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-twelve
   =/  trg  "xii"
   =/  src  12
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-thirteen
   =/  trg  "xiii"
   =/  src  13
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-fourteen
   =/  trg  "xiv"
   =/  src  14
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-fifteen
   =/  trg  "xv"
   =/  src  15
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-sixteen
   =/  trg  "xvi"
   =/  src  16
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-seventeen
   =/  trg  "xvii"
   =/  src  17
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-eighteen
   =/  trg  "xviii"
   =/  src  18
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-nineteen
   =/  trg  "xix"
   =/  src  19
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-twenty
   =/  trg  "xx"
   =/  src  20
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-twenty-three
   =/  trg  "xxiii"
   =/  src  23
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-twenty-five
   =/  trg  "xv"
   =/  src  25
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-twenty-seven
   =/  trg  "xvii"
   =/  src  27
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-thirty-one
   =/  trg  "xxxi"
   =/  src  31
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-thirty-nine
   =/  trg  "xxxix"
   =/  src  39
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-forty-two
   =/  trg  "xlii"
   =/  src  42
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-forty-nine
   =/  trg  "xlix"
   =/  src  49
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-fifty
   =/  trg  "l"
   =/  src  50
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-sixty-two
   =/  trg  "lxii"
   =/  src  62
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-seventy-eight
   =/  trg  "lxxviii"
   =/  src  78
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-one-hundred
   =/  trg  "c"
   =/  src  100
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-one-hundred-thirty-three
   =/  trg  "cxxxiii"
   =/  src  133
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-four-hundred-ninety-nine
   =/  trg  "cdxcix"
   =/  src  499
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-five-hundred
   =/  trg  "d"
   =/  src  500
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-five-hundred-forty-eight
   =/  trg  "dxlviii"
   =/  src  548
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-six-hundred-sixty-nine
   =/  trg  "dclxix"
   =/  src  669
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-eight-hundred-eighty-eight
   =/  trg  "dccclxxxviii"
   =/  src  888
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-nine-hundred-ninety-nine
   =/  trg  "cmxcix"
   =/  src  999
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-one-thousand
   =/  trg  "m"
   =/  src  1.000
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-one-thousand-nine-hundred-ninety-nine
   =/  trg  "mcmxcix"
   =/  src  1.999
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-two-thousand-twenty-two
   =/  trg  "mmxxii"
   =/  src  2.022
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 ++  test-input-three-thousand-nine-hundred-ninety-nine
   =/  trg  "mmmcmxcix"
   =/  src  3.999
   ;:  weld
   %+  expect-eq
-    !>  src
-    !>  (yield trg)
+    !>  trg
+    !>  (yield src)
   ==
 --
