@@ -243,7 +243,7 @@
     !>  (parse (cuss src))
   ==
 ++  test-output-twenty-five
-  =/  src  "xv"
+  =/  src  "xxv"
   =/  trg  25
   ;:  weld
   %+  expect-eq
@@ -254,7 +254,7 @@
     !>  (parse (cuss src))
   ==
 ++  test-output-twenty-seven
-  =/  src  "xvii"
+  =/  src  "xxvii"
   =/  trg  27
   ;:  weld
   %+  expect-eq
@@ -653,7 +653,7 @@
     !>  (yield src)
   ==
 ++  test-input-twenty-five
-  =/  trg  "xv"
+  =/  trg  "xxv"
   =/  src  25
   ;:  weld
   %+  expect-eq
@@ -661,7 +661,7 @@
     !>  (yield src)
   ==
 ++  test-input-twenty-seven
-  =/  trg  "xvii"
+  =/  trg  "xxvii"
   =/  src  27
   ;:  weld
   %+  expect-eq
